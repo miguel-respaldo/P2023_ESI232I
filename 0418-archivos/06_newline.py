@@ -1,0 +1,1 @@
+print("Este\nes\nuna\nfrase")
